@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssm5kk10:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ssm5kk10</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ssm5kk10.war">
+      <element id="artifact" artifact-name="ssm5kk10:war exploded" />
+    </root>
+  </artifact>
+</component>
